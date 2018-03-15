@@ -5,7 +5,7 @@ This is a implementation for MQTT
 How can we control the LED light with a client-side computer
 ![control light](https://github.com/DuoL/IoT_Broker_And_Client_python/blob/master/images/Test1.JPG)
 ## Demo
-https://youtu.be/-EL1CMD0eWo
+https://www.youtube.com/watch?v=-ELlCMD0ewo&feature=youtu.be
 
 # Security
 To use CA to maintain the security between our client with AWS Server
